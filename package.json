@@ -1,0 +1,21 @@
+{
+    "name": "dark",
+    "displayName": "xlaez dark real",
+    "description": "for those of us who love dark yet moderate colouration in our editor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "xl real dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xl real dark-color-theme.json"
+            }
+        ]
+    }
+}
